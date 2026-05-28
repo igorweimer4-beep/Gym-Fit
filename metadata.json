@@ -1,0 +1,6 @@
+{
+  "name": "FitLog",
+  "description": "App de musculação e calistenia para registro de treinos offline, controle de hidratação, curvas de peso corporal, planejamento semanal na agenda e emissão de relatórios PDF com suporte de resumos motivacionais gerados via Inteligência Artificial Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
